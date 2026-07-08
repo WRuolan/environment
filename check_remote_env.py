@@ -1,5 +1,5 @@
 import sys
-
+#检查环境
 print(sys.executable)
 try:
     import numpy
